@@ -1,5 +1,14 @@
+# Requirements for the project
 streamlit
 pydub
 numpy
 matplotlib
 mutagen
+
+# Must downgrade pip to properly install fairseq
+# pip<23.3
+
+# These are my usual dev requirements
+pynvim
+black
+basedpyright
